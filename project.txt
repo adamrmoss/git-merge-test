@@ -2,6 +2,6 @@ Project
 Line 2
 this is my new kitten feature! meow.
 bug fix
-Jessica
+Jessica Rabbit
 Balloonicorn
 End
